@@ -72,7 +72,7 @@ CreateThread(function()
                 if not alotettu then
                     teksti(lol, tostring("~g~E ~w~- juttele!"))
                     if IsControlJustReleased(0, 38) then
-                        alota()
+                        menu()
                     end
                 else
                     if not myyty then
