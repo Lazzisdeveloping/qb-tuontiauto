@@ -22,7 +22,7 @@ local pedit = {
 RegisterServerEvent('karpo_tuontiauto:myyauto')
 AddEventHandler('karpo_tuontiauto:myyauto', function(hinta)
 	local Player = QBCore.Functions.GetPlayer(source)
-    Player.Functions.AddMoney('money', hinta)
+    Player.Functions.AddMoney('cash', hinta)
 end)
 
 
