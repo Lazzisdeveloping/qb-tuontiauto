@@ -6,7 +6,7 @@ Clientin ja serverin alussa configuroinnit
 
 tuontiauto on convertattu karpon omasta esx tuontiautosta
 
-https://github.com/peakjj/esx_tuontiauto
+Alkuperäinen versio: https://github.com/peakjj/esx_tuontiauto
 
 Suuret kiitokset Karpolle että sain julkaista
 
