@@ -11,7 +11,7 @@ local QBCore = exports['qb-core']:GetCoreObject()
 local pedit = {
     [1] = {
         pos = { x = -337.11, y = -2442.16, z = 6.0 },
---        pedmodel = "g_m_y_famca_01",
+        pedmodel = "g_m_y_famca_01",
         heading = 297.26,
         luotu = false,
         npcanimaatio = 'anim@heists@prison_heistig_2_p1_exit_bus',
